@@ -64,7 +64,7 @@ public class Ventana extends JFrame implements ActionListener{
                 JOptionPane.showMessageDialog(this, "Fibonacci: " + fibo(n00m)); /**La opción corre el proceso de Fibonacci*/
             }
             if (e.getSource() == boton2) {
-                JOptionPane.showMessageDialog(this, "Factorial: " + factorial(n00m)); /**La opción corre el proceso de Factorial*/
+                JOptionPane.showMessageDialog(this, "Factorial: " + factorial(n00m)); /**La opción corre el proceso del Factorial*/
             }
    
         }
