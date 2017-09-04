@@ -16,7 +16,7 @@ public class Ventana extends JFrame implements ActionListener{
         private JButton boton2;
         
         public Ventana() {
-        super();                    // usamos el contructor de la clase padre JFrame
+        super();                    // yusamos el contructor de la clase padre JFrame
         configurarVentana();        // configuramos la ventana
         inicializarComponentes();   // inicializamos los atributos o componentes
         }
